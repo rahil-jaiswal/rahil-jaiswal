@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahil-jaiswal
-- 👀 Work at Ribbon Communications as Software Engineer
-- 🌱 Learning Container Based Orchestration
+- 👀 Working as Software Engineer
+- 🌱 Learning and Exploring Python
 - 💞️ Actively working on various projects...
-- 📫 rajaiswal@protonmail.com
+- 📫 rahilravijaiswal@gmail.com | rajaiswal@protonmail.com
